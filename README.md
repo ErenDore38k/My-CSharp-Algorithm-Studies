@@ -1,6 +1,8 @@
 #### My-CSharp-Algorithm-Studies
 
 Hello,[ngakademi.com](https://ngakademi.com//courses//adan-zye-temel-c-programlama-egitimi//)platform was based on the questions within the scope of C# Algorithm Questions.
+ Projeye dair daha detaylı bilgileri için [Daha Fazla Bilgi İçin Wiki'ye Bakın](https://github.com/ErenDore38k/My-CSharp-Algorithm-Studies/wiki)
+
 
 ### Questions
 
