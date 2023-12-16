@@ -7,16 +7,6 @@ Hello,[ngakademi.com](https://ngakademi.com//courses//adan-zye-temel-c-programla
 
 ### Questions
 
-## EN
-1. Write the project that gives the sum of two numbers.<br>
-2. Write a project that gives the sum of the squares of two numbers entered by the user.
-3. Write a project that finds the sum of the cubes of the numbers 1 to 10.
-4. Write a project that calculates the age of the person whose date of birth is entered.
-5. Write a project that calculates the factorial of the entered number.
-6. Write a project that finds multiplication of positive numbers using addition.
-7. Write a project that uses subtraction to divide positive numbers.
-8. Write an application that tells you how many digits the entered positive number has.
-9. Write a project that finds whether the sum of the cubes of the digits of an entered 3-digit number is equal to the number itself.
 
 
 ## TR
@@ -29,3 +19,16 @@ Hello,[ngakademi.com](https://ngakademi.com//courses//adan-zye-temel-c-programla
 7. Pozitif sayılarda bölme işlemini çıkarma kullanarak yapan projeyi yazınız.
 8. Girilen pozitif sayının kaç basamaklı olduğunu söyleyen uygulamayı yazınız.
 9. Girilen 3 basamaklı bir sayının basamaklarının küpleri toplamı sayının kendisine eşit olup olmadığını bulan projeyi yazınız.
+
+
+
+## EN
+1. Write the project that gives the sum of two numbers.<br>
+2. Write a project that gives the sum of the squares of two numbers entered by the user.
+3. Write a project that finds the sum of the cubes of the numbers 1 to 10.
+4. Write a project that calculates the age of the person whose date of birth is entered.
+5. Write a project that calculates the factorial of the entered number.
+6. Write a project that finds multiplication of positive numbers using addition.
+7. Write a project that uses subtraction to divide positive numbers.
+8. Write an application that tells you how many digits the entered positive number has.
+9. Write a project that finds whether the sum of the cubes of the digits of an entered 3-digit number is equal to the number itself.
